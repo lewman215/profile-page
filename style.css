@@ -9,7 +9,8 @@ p {
     color: blue;
 }
 
-/* Styles any element with the class: content-container */
+/* Styles any element with the class: content-container (notice the . that's needed at the beginning */
 .content-container {
     padding: 50px;
+    border: 2px solid red;
 }
