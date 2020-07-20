@@ -1,0 +1,15 @@
+
+/* style any "h1" element */
+h1 {
+    color: red;
+}
+
+/* style any "p" element */
+p {
+    color: blue;
+}
+
+/* Styles any element with the class: content-container */
+.content-container {
+    padding: 50px;
+}
